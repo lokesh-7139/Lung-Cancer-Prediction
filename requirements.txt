@@ -1,0 +1,16 @@
+# Core
+numpy>=1.23.0
+
+# Image processing
+opencv-python>=4.5.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Scikit-learn
+scikit-learn>=1.0.0
+
+# Imbalanced-learn (SMOTE)
+imbalanced-learn>=0.9.0
+
+# Deep Learning
+tensorflow>=2.12.0
